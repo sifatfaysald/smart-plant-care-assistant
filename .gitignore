@@ -1,0 +1,29 @@
+# Arduino build files
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+*.o
+*.d
+
+# Arduino IDE temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Visual Studio Code settings
+.vscode/
+
+# PlatformIO (if used)
+.pio/
+.env/
